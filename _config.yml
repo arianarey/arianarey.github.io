@@ -46,7 +46,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Hairy and I'm a student at both Metro Tech and East Central University. I am attempting to achieve my certification in Cyber Security/Network Support and my bachelors in Computer Science. I have been part of many extracurricular activities gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Bilingual language</mark> and <mark>Eating oatmeal cookies</mark>
 
 content:
   - title: Projects # Title for the section
