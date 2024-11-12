@@ -60,26 +60,6 @@ content:
           This has been my life's effort. I had to work twice as hard than anybody in my high school instatution to descalate the norms that the school had been stuck with throughout the years.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-       - title: Capitol Hill High School
-        layout: text
-        caption: 2019 - 2023
-        sub_title: 4.0 GPA & above
-
-       - title: Capitol Hill High School
-        layout: text
-        caption: 2019 - 2023
-        sub_title: Honor Roll
-
-       - title: Capitol Hill High School
-        layout: text
-        caption: 2019 - 2023
-        sub_title: National Honors Society
-
-       - title: Capitol Hill High School
-        layout: text
-        caption: 2023
-        sub_title: Valedictorian C/O 2023
         
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -105,12 +85,7 @@ content:
           During my time at Capitol Hill High School I learnt most of my key skills that have I have taken through my education such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at this High School and learnt a lot about a healthy school life balance.
 
           I spent a lot of my free time as a STUCO member and mentor of the *Ignite Nation* taking on roles such as *STUCO PRESIDENT* and *Educational Mentor*.
-  - layout: left
-        title: Metro Technology Center
-        caption: 2024 - Present
-        sub_title: 
-        description: | # this will include new lines to allow paragraphs
-         My time here at Metro Tech has been a wave of new skills flooding into my life which I have been enjoying very much.
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
