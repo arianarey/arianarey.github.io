@@ -62,18 +62,22 @@ content:
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
        - title: Capitol Hill High School
+        layout: text
         caption: 2019 - 2023
         sub_title: 4.0 GPA & above
 
        - title: Capitol Hill High School
+        layout: text
         caption: 2019 - 2023
         sub_title: Honor Roll
 
        - title: Capitol Hill High School
+        layout: text
         caption: 2019 - 2023
         sub_title: National Honors Society
 
        - title: Capitol Hill High School
+        layout: text
         caption: 2023
         sub_title: Valedictorian C/O 2023
         
