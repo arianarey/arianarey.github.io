@@ -53,14 +53,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
         # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This has been my life's effort. I had to work twice as hard than anybody in my high school instatution to descalate the norms that the school had been stuck with throughout the years.
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-        
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -85,15 +89,19 @@ content:
           During my time at Capitol Hill High School I learnt most of my key skills that have I have taken through my education such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at this High School and learnt a lot about a healthy school life balance.
 
           I spent a lot of my free time as a STUCO member and mentor of the *Ignite Nation* taking on roles such as *STUCO PRESIDENT* and *Educational Mentor*.
-          
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in Cybersecurity some of my other interests and hobbies are:
-      - Baking
-      - Reading
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
       - Knitting
-      - Quality time w/family
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
