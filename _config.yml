@@ -85,7 +85,16 @@ content:
           During my time at Capitol Hill High School I learnt most of my key skills that have I have taken through my education such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at this High School and learnt a lot about a healthy school life balance.
 
           I spent a lot of my free time as a STUCO member and mentor of the *Ignite Nation* taking on roles such as *STUCO PRESIDENT* and *Educational Mentor*.
-        
+     content:
+      - layout: left
+        title: Capitol Hill High School
+        caption: 2019 - 2023
+        sub_title: High School
+        description: | # this will include new lines to allow paragraphs
+          During my time at Capitol Hill High School I learnt most of my key skills that have I have taken through my education such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at this High School and learnt a lot about a healthy school life balance.
+
+          I spent a lot of my free time as a STUCO member and mentor of the *Ignite Nation* taking on roles such as *STUCO PRESIDENT* and *Educational Mentor*.
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
