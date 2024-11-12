@@ -90,6 +90,13 @@ content:
 
           I spent a lot of my free time as a STUCO member and mentor of the *Ignite Nation* taking on roles such as *STUCO PRESIDENT* and *Educational Mentor*.
 
+      - layout: left
+        title: Metro Technology Center
+        caption: 2024 - Present
+        sub_title: Institution
+        description: | # this will include new lines to allow paragraphs
+          My 
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
