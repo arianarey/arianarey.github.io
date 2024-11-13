@@ -93,9 +93,16 @@ content:
       - layout: left
         title: Metro Technology Center
         caption: 2024 - Present
-        sub_title: Institution
+        sub_title: Education center
         description: | # this will include new lines to allow paragraphs
-          My 
+          My time spent in Metro Tech has been one of the best ways to practice my skills/qualities putting them back into place since I took a year break from school. In the Cyber Secuity/Network Support program I learn something new everyday since this school is a "hands on" institution I've been given the opportunity to experience an insight of what I'd have to do for the rest of my career in cybersecurity. 
+
+      - layout: left
+        title: East Central University
+        caption: 2024 - Present
+        sub_title: University
+        description: | # this will include new lines to allow paragraphs
+          My time in East Central has been fufilled with many assignments. This has been putting to work my organization and working to tight deadlines skills given the fact that I've been multitasking. 
 
   - title: A Little More About Me
     layout: text
