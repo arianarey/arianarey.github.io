@@ -52,19 +52,26 @@ content:
   - title: Honors and Awards # Title for the section
     layout: list # Type of content section (list/text)
     content:
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: left
+        title: Capitol Hill High School
+        caption: 2019 - 2023
+        sub_title: 4.0 GPA & above
 
+      - layout: left
+        title: Capitol Hill High School
+        caption: 2019 - 2023
+        sub_title: Honor Roll
+
+      - layout: left
+        title: Capitol Hill High School
+        caption: 2019 - 2023
+        sub_title: National Honor Society
+
+      - layout: left
+        title: Capitol Hill High School
+        caption: 2023
+        sub_title: Valedictorian C/O 2023
+       
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
