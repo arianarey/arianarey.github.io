@@ -52,28 +52,28 @@ content:
   - title: Honors and Awards # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle
         title: 4.0 GPA & above
     
         # link_text: boringcompany.com
         sub_title: Capitol Hill High School
         caption: 2019 - 2023
 
-      - layout: left
+      - layout: middle
         title: Honor Roll
     
         # link_text: boringcompany.com
         sub_title: Capitol Hill High School
         caption: 2019 - 2023
 
-      - layout: right
+      - layout: middle
         title: National Honors Society
     
         # link_text: boringcompany.com
         sub_title: Capitol Hill High School
         caption: 2019 - 2023
 
-      - layout: right
+      - layout: middle
         title: Valedictorian C/O 2023
     
         # link_text: boringcompany.com
