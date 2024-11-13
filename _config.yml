@@ -66,14 +66,14 @@ content:
         sub_title: Capitol Hill High School
         caption: 2019 - 2023
 
-      - layout: left
+      - layout: middle
         title: National Honors Society
     
         # link_text: boringcompany.com
         sub_title: Capitol Hill High School
         caption: 2019 - 2023
 
-      - layout: left
+      - layout: middle
         title: Valedictorian C/O 2023
     
         # link_text: boringcompany.com
