@@ -79,7 +79,9 @@ content:
         # link_text: boringcompany.com
         sub_title: Capitol Hill High School
         caption: 2023
-       
+        description: | # this will include new lines to allow paragraphs
+              I was the valedictorian of the class or 2023. However, in the third quarter of the second semester one of my collegues passed me and the councelors ecided that they'd put her as the valedictorian instead of me. 
+      
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
