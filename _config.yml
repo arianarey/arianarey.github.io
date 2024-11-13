@@ -119,8 +119,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in cybersecurity some of my other interests and hobbies are:
       - Baking
-      - Drawing
       - Knitting
+      - Drawing
       - Volunteering
 
 # Footer
