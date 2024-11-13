@@ -95,7 +95,9 @@ content:
         caption: 2024 - Present
         sub_title: Education center
         description: | # this will include new lines to allow paragraphs
-          My time spent in Metro Tech has been one of the best ways to practice my skills/qualities putting them back into place since I took a year break from school. In the Cyber Secuity/Network Support program I learn something new everyday since this school is a "hands on" institution I've been given the opportunity to experience an insight of what I'd have to do for the rest of my career in cybersecurity. 
+          My time spent in Metro Tech has been one of the best ways to practice my skills/qualities. I learn something new everyday. After all, this school is a "hands on" institution that gives their students the opportunity to experience an insight of what's like to work in that particular feild. 
+
+          I spend a lot of time finishing assignments and group projects assigned by our professor. I really enjoy the group projects because during this time we get to interact with each other an *LEARN* from eachother. 
 
       - layout: left
         title: East Central University
@@ -104,6 +106,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           My time in East Central has been fufilled with many assignments. This has been putting to work my organization and working to tight deadlines skills given the fact that I've been multitasking. 
 
+          I throughly enjoy my time spent doing my assignments and projects because it gives me the satisfaction of gaining more knowledge.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
