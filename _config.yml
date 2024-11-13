@@ -60,9 +60,11 @@ content:
         caption: 2019 - 2023
 
       - layout: left
-        title: Capitol Hill High School
+        title: Honor Roll
+    
+        # link_text: boringcompany.com
+        sub_title: Capitol Hill High School
         caption: 2019 - 2023
-        sub_title: Honor Roll
 
       - layout: left
         title: Capitol Hill High School
