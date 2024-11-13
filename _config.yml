@@ -52,7 +52,7 @@ content:
   - title: Honors and Awards # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
+      - layout: left
         title: 4.0 GPA & above
     
         # link_text: boringcompany.com
